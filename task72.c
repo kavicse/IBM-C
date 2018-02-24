@@ -27,4 +27,5 @@ for(i=0;i<n;i++)
 	printf("\nName :%s",e[i].name);
 	printf("\nBalance:%d",e[i].bal);
 }	
+	printf("\nThe size of structure:%d",sizeof(e));
 }
